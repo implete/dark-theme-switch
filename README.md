@@ -2,15 +2,12 @@
 
 A CSS dark theme switch.
 
-## Installation
+## Demo
 
-Clone this repository.
+![app demo](https://github.com/implete/dark-theme-switch/raw/main/demo.gif "Dark theme switch demo")
 
-```shell
-git clone https://github.com/implete/dark-theme-switch.git
-```
+## Quick start
 
-## Usage
-
-Open `index.html` in your browser.
- 
+1.  Clone this repo using `git clone https://github.com/implete/dark-theme-switch.git <YOUR_PROJECT_NAME>`
+2.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
+3. Open `index.html` in your browser.
